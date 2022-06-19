@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "emmeans"]
+	path = emmeans
+	url = https://github.com/rvlenth/emmeans
+	shallow = true
+	registered = true
+[submodule "unrepx"]
+	path = unrepx
+	url = https://github.com/rvlenth/unrepx
+	shallow = true
+	registered = true

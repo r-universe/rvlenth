@@ -1,0 +1,10 @@
+[
+  {
+    "package": "emmeans",
+    "oncran": true
+  },
+  {
+    "package": "unrepx",
+    "oncran": true
+  }
+]
