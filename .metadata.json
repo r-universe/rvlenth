@@ -4,6 +4,18 @@
     "oncran": true
   },
   {
+    "package": "estimability",
+    "oncran": true
+  },
+  {
+    "package": "lsmeans",
+    "oncran": true
+  },
+  {
+    "package": "rsm",
+    "oncran": true
+  },
+  {
     "package": "unrepx",
     "oncran": true
   }

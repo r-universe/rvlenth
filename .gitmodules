@@ -8,6 +8,21 @@
 	url = https://github.com/rvlenth/emmeans
 	shallow = true
 	registered = true
+[submodule "estimability"]
+	path = estimability
+	url = https://github.com/rvlenth/estimability
+	shallow = true
+	registered = true
+[submodule "lsmeans"]
+	path = lsmeans
+	url = https://github.com/rvlenth/lsmeans
+	shallow = true
+	registered = true
+[submodule "rsm"]
+	path = rsm
+	url = https://github.com/rvlenth/rsm
+	shallow = true
+	registered = true
 [submodule "unrepx"]
 	path = unrepx
 	url = https://github.com/rvlenth/unrepx
